@@ -1,0 +1,5 @@
+/* Clear default Vite styles to avoid conflicts */
+:root {
+  margin: 0;
+  padding: 0;
+}
